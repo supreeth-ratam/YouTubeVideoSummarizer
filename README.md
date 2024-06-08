@@ -7,7 +7,7 @@
 ## Installing dependencies
 
 ### Clone this repository
-$ git clone https://github.com/yourusername/project-name
+$ git clone git remote add origin https://github.com/supreeth-ratam/YouTubeVideoSummarizer.git
 
 ### Go into the repository
 $ cd YouTubeTranscriptDownloader
